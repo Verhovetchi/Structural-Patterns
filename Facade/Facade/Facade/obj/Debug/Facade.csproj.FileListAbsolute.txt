@@ -1,0 +1,12 @@
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Facade\Facade\Facade\bin\Debug\Facade.exe.config
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Facade\Facade\Facade\bin\Debug\Facade.exe
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Facade\Facade\Facade\bin\Debug\Facade.pdb
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Facade\Facade\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Facade\Facade\Facade\obj\Debug\Facade.exe
+C:\My Comp HP\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Facade\Facade\Facade\obj\Debug\Facade.pdb
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Structural Patterns\Facade\Facade\Facade\bin\Debug\Facade.exe.config
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Structural Patterns\Facade\Facade\Facade\bin\Debug\Facade.exe
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Structural Patterns\Facade\Facade\Facade\bin\Debug\Facade.pdb
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Structural Patterns\Facade\Facade\Facade\obj\Debug\Facade.csprojAssemblyReference.cache
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Structural Patterns\Facade\Facade\Facade\obj\Debug\Facade.exe
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Structural Patterns\Facade\Facade\Facade\obj\Debug\Facade.pdb

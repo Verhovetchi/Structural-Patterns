@@ -1,0 +1,12 @@
+C:\Users\Daniel\Desktop\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Adapter\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\Daniel\Desktop\Adapter\Adapter\bin\Debug\Adapter.exe
+C:\Users\Daniel\Desktop\Adapter\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Daniel\Desktop\Adapter\Adapter\obj\Debug\Adapter.exe
+C:\Users\Daniel\Desktop\Adapter\Adapter\obj\Debug\Adapter.pdb
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Structural Patterns\Adapter\Adapter\bin\Debug\Adapter.exe.config
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Structural Patterns\Adapter\Adapter\bin\Debug\Adapter.exe
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Structural Patterns\Adapter\Adapter\bin\Debug\Adapter.pdb
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Structural Patterns\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Structural Patterns\Adapter\Adapter\obj\Debug\Adapter.exe
+D:\Lucrari de laborator\Anul III\Semestrul VI\Tehnologii si metode de proiectare software(TMPS)\Structural Patterns\Adapter\Adapter\obj\Debug\Adapter.pdb

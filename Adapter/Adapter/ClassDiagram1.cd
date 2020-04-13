@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Adapter.Program">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adapter.AdapterAppToDB">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="Adapter.App" ManuallyRouted="true">
+      <Path>
+        <Point X="5.25" Y="0.5" />
+        <Point X="5.25" Y="0.125" />
+        <Point X="6.375" Y="0.125" />
+        <Point X="6.375" Y="2.685" />
+        <Point X="1.5" Y="2.685" />
+        <Point X="1.5" Y="2.31" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAEAAAAAAAAAAAAAABAAAAAAAAEAAA=</HashCode>
+      <FileName>AdapterAppToDB.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.1" />
+  </Class>
+  <Class Name="Adapter.App">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAICIAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>App.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Adapter.IDataBase">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAEAAAAAAAAAAAAAABAAAAAAAAEAAA=</HashCode>
+      <FileName>IDataBase.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
